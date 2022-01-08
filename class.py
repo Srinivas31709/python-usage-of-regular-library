@@ -1,5 +1,5 @@
 class Employee:
-   "Srinivas"
+   "Srinivas Obulampalli"
    #Common base class for all employees
    empCount = 6
    def __init__(self, name, salary):
